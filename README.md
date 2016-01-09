@@ -1,6 +1,7 @@
 # blog(2015)
 
 ## 前端的综合
+* [大型网站架构不得不考虑的问题](https://github.com/mishe/blog/issues/2)
 * [前端框架的趋势](https://github.com/mishe/blog/issues/81)
 * [2009-2015 6年间，前端的翻天覆地变化](https://github.com/mishe/blog/issues/80)
 * [前端工程的价值体现](https://github.com/mishe/blog/issues/62)
@@ -8,13 +9,10 @@
 * [页面渲染优化](https://github.com/mishe/blog/issues/13)
 * [前端工程师的知识结构](https://github.com/mishe/blog/issues/8)
 * [移动端Web分级标准](https://github.com/mishe/blog/issues/7)
-* [大型网站架构不得不考虑的问题](ttps://github.com/mishe/blog/issues/2)
-
 
 ## 移动端（webapp）开发
-
+* [构建自适应的手机页面](https://github.com/mishe/blog/issues/1)
 * [动性能(转之alloyteam)](https://github.com/mishe/blog/issues/82)
-* [构建自适应的手机页面](ttps://github.com/mishe/blog/issues/1)
 * [最近项目开发的总结](https://github.com/mishe/blog/issues/84)
 * [touch 事件深究](https://github.com/mishe/blog/issues/77)
 * [高性能 CSS3 动画](https://github.com/mishe/blog/issues/75)
