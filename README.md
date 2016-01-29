@@ -1,9 +1,12 @@
-# [个人博客](https://github.com/mishe/blog/issues)
+### [个人博客](https://github.com/mishe/blog/issues)
 
-# [2015年集合](https://github.com/mishe/blog/blob/master/2015.md)
+### [2015年集合](https://github.com/mishe/blog/blob/master/2015.md)
 
 
-项目破题，时时牢记
+
+
+
+# 项目破题，时时牢记
 
 ## 项目之初，需求不明，死线（dead line）已定。
 
