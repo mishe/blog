@@ -1,86 +1,69 @@
-# blog(2015)
+# 个人博客
 
-## 前端的综合
-* [大型网站架构不得不考虑的问题](https://github.com/mishe/blog/issues/2)
-* [前端框架的趋势](https://github.com/mishe/blog/issues/81)
-* [2009-2015 6年间，前端的翻天覆地变化](https://github.com/mishe/blog/issues/80)
-* [前端工程的价值体现](https://github.com/mishe/blog/issues/62)
-* [前端加载性能优化方案](https://github.com/mishe/blog/issues/28)
-* [页面渲染优化](https://github.com/mishe/blog/issues/13)
-* [前端工程师的知识结构](https://github.com/mishe/blog/issues/8)
-* [移动端Web分级标准](https://github.com/mishe/blog/issues/7)
+项目破题，时时牢记
 
-## 移动端（webapp）开发
-* [构建自适应的手机页面](https://github.com/mishe/blog/issues/1)
-* [动性能(转之alloyteam)](https://github.com/mishe/blog/issues/82)
-* [最近项目开发的总结](https://github.com/mishe/blog/issues/84)
-* [touch 事件深究](https://github.com/mishe/blog/issues/77)
-* [高性能 CSS3 动画](https://github.com/mishe/blog/issues/75)
-* [解决移动端浏览器的地址栏遮挡position：fixed，top=0的元素的方案](https://github.com/mishe/blog/issues/73)
-* [微信js-sdk 在安卓系统下的bug巨坑啊](https://github.com/mishe/blog/issues/54)
-* [backbone h5 history 的使用](https://github.com/mishe/blog/issues/52)
-* [移动开发碰到的问题](https://github.com/mishe/blog/issues/51)
-* [本地图片上传的优化，借鉴之手机端QQ](https://github.com/mishe/blog/issues/49)
-* [WEBAPP介绍及其iOS Web开发技巧总结(转)](https://github.com/mishe/blog/issues/33)
-* [android 下给图片设置高度100% 出错](https://github.com/mishe/blog/issues/31)
-* [华为手机的神奇CSS 动画bug](https://github.com/mishe/blog/issues/16)
-* [移动端手机集合](https://github.com/mishe/blog/issues/15)
-* [浅谈移动前端的最佳实践](https://github.com/mishe/blog/issues/9)
-* [微信jdk 在安卓系统下的bug](https://github.com/mishe/blog/issues/6)
-* [移动端web页面position:fixed弹窗内容包含输入框问题排版错位的问题](https://github.com/mishe/blog/issues/5)
-* [移动 Web 开发技巧](https://github.com/mishe/blog/issues/4)
-* [移动开发事件](https://github.com/mishe/blog/issues/3)
+## 项目之初，需求不明，死线（dead line）已定。
 
-## 集成打包发布
-* [前端集成解决方案](https://github.com/mishe/blog/issues/78)
-* [webpack 项目打包实例应用](https://github.com/mishe/blog/issues/83)
-* [为什么 要用webpack 来作为前端的打包工具](https://github.com/mishe/blog/issues/59)
-* 
+"压力山大，谋定而后动", 基于业务，权衡利弊，发现风险，积极沟通，设计方案而后动。
 
-## 工具组件的使用
-* [tools：fixedTop.js pc端固定位置组件](https://github.com/mishe/blog/issues/71)
-* [tools: overSlider 移动端相册功能组件](https://github.com/mishe/blog/issues/70)
-* [tools: getLimitString 前端截取字符串](https://github.com/mishe/blog/issues/69)
-* [tools:uniqID唯一ID的应用](https://github.com/mishe/blog/issues/68)
-* [tools：sync.js 为了更好的处理全局ajax调用及相关的出错处理](https://github.com/mishe/blog/issues/58)
-* [用document.title=“xxx”动态修改title,在ios的微信下面不生效bug](https://github.com/mishe/blog/issues/57)
-* [tools：无限加载页面分页数据loadMoreData.js](https://github.com/mishe/blog/issues/56)
-* [tools：emoji表情解析](https://github.com/mishe/blog/issues/55)
-* [tools：dateFormat的使用](https://github.com/mishe/blog/issues/53)
-* [tools：popWindow的使用](https://github.com/mishe/blog/issues/50)
-* [tools：图片上传组件 uploadImg.js](https://github.com/mishe/blog/issues/48)
-* [tools：parseUrl.JS 的使用](https://github.com/mishe/blog/issues/46)
-* [lazyload 图片懒加载的使用](https://github.com/mishe/blog/issues/45)
-* [localstorage 本地缓存的应用](https://github.com/mishe/blog/issues/44)
-* [分页JS 模板](https://github.com/mishe/blog/issues/43)
-* [JQUERY 拖曳插件一个](https://github.com/mishe/blog/issues/40)
-* [jquery插件：放大镜](https://github.com/mishe/blog/issues/39)
-* [JS时区的转换](https://github.com/mishe/blog/issues/38)
-* [识别电话号码，可以是多种格式](https://github.com/mishe/blog/issues/37)
-* [JQUERY 插件:placeholder](https://github.com/mishe/blog/issues/36)
-* [CSS3圆环倒计时效果;可设置步长和停止角度](https://github.com/mishe/blog/issues/35)
-* [Js改变选取文本框的内容，也可以用来改变光标的位置](https://github.com/mishe/blog/issues/30)
-* [PC端slider组件](https://github.com/mishe/blog/issues/21)
-* [密码强度检测js](https://github.com/mishe/blog/issues/19)
-* 
+## 需求改动频繁，排期总是被压缩。
+
+需求变更通常有三种原因：
+
+* 源于竞争态势的变化，战略的快速调整。
+* 敏捷的产品开发实践，小步快跑，渐进明细。
+* 产品设计人员没有想清楚。
 
 
-## 其他
-* [css3 loading动画集合](https://github.com/mishe/blog/issues/76)
-* [各种奇妙的hack](https://github.com/mishe/blog/issues/74)
-* [HTTP状态码](https://github.com/mishe/blog/issues/67)
-* [列举IE 与其他浏览器不一样的特性？](https://github.com/mishe/blog/issues/66)
-* [CSS 相关问题](https://github.com/mishe/blog/issues/65)
-* [浏览器端的本地存储](https://github.com/mishe/blog/issues/64)
-* [浏览器客户端的缓存机制](https://github.com/mishe/blog/issues/63)
-* [常见web安全及防护原理](https://github.com/mishe/blog/issues/61)
-* [前端常见跨域问题的解决方案](https://github.com/mishe/blog/issues/60)
-* [backboneJS 的router执行顺序的BUG](https://github.com/mishe/blog/issues/42)
-* [简单的通过iframe来上传文件到服务端](https://github.com/mishe/blog/issues/41)
-* [浏览器检测](https://github.com/mishe/blog/issues/34)
-* [CSS垂直水平完全居中手册](https://github.com/mishe/blog/issues/24)
-* [在线文本编辑器的基本实现原理 ](https://github.com/mishe/blog/issues/23)
-* [css@supports](https://github.com/mishe/blog/issues/22)
-* [动态添加删除样式](https://github.com/mishe/blog/issues/20)
-* [前端架构师可以做的事情](https://github.com/mishe/blog/issues/12)
-* [浏览器如何渲染一个页面](https://github.com/mishe/blog/issues/10)
+眼光放在项目目标，思考自己能做些什么。大家需要的不是你的抱怨，而是你的“补位”
+
+## 总是缺人手，加班不断，且代码质量差。
+
+* 项目确实过于紧急，基于目前的人数，无论什么样的开发者都会吃不消。
+* 业务频率正常，团队生产力低下
+
+对于1, 暴露的问题在于内和外
+
+内： 对业务的增量没有充分预估，做好人力储备，或技术架构对人力内调不支持。
+外： 缺乏跨团队借调人力的能力。
+
+对于2，需要定位原因，是前端团队自身工作流问题，还是与其它团队配合问题。分而治之。此时最好不要再抱怨“缺人手”，以免更加被人“不看好”。
+
+## 前后端联调环境搭建耗时，且定位问题麻烦，导致联调时间不可控。
+
+## UI过于纠结界面细节，导致交付时间不可控。
+
+* 精益求精永远是没错的，但还是要从项目的紧急程度来看问题。好的FE需要一定的沟通能力。
+* FE需要协同UI，UE 制定组件化视觉规范。
+
+## 移动端，设备多，兼容问题多，导致自测时间不可控。
+
+* 移动时代虽然让FE脱离了恼人的各种IE，却又带来了更多的平台的兼容问题。我们希望通过一个个可复用，经过测试的组件来减少日常开发的跨终端的测试。
+* 试想，如果每次开发，80%以上的模块都是复用可靠且兼容的组件开发，那么这些兼容性问题，将会随着组件库的丰富，越来越少。
+
+## 领导说，PM说，UI说，UE说。信息不对等，到底听谁说？
+
+毫无疑问，无论“是谁说”，最后都得听领导的，别问我为什么！（但又不能事事都问领导，轻重请自行把握）
+
+## 基于历史原因，总是无法采用更恰当的技术方案，导致团队技术脱节。
+
+* 要解决这个问题，首先我们必须承认，根本不存在完美的技术方案和架构。我们需要拥抱变化，为向未来的技术和架构过渡做好准备。
+渐进式架构与技术债务
+* 基于团队的不同形态设计适合不同阶段的架构与技术堆栈。同时，需要以开放的心态看待 
+* "技术债务"，就像我们通常不喜欢欠债，但有时候贷款也是为了创造更大的利润。关键在于管控和权衡。
+
+### 何时可以启用新技术与架构？
+
+* 对于不重要不紧急的产品
+* 如果没有，就在组内做技术驱动的技术产品，比如团队网站，以此来打磨新技术或架构。然后选择一个恰当的时机在新项目里推行。
+
+## 一边加班，一边吐槽，一边被吐槽。
+
+满满的负能量，自以为嘴上爽了，你可知被你吐槽的人是怎样看待你？你又何曾把他看做是你团队里面的"自己人"?
+
+## 走人了，换了个团队，问题依旧。
+
+是的，当你带着抱怨离开这个团队，你可能会发现又跳进了另一个坑。
+其实，也许你原本可以改变，但你选择了放弃。
+当你能为团队做更多事，更多补位，那你的价值也就提升了。
+而"走"往往只是一种无奈的回避。
